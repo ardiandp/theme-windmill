@@ -5,8 +5,15 @@ This repository contains the Theme Windmill, a modern and customizable dashboard
 ## Preview
 
 Below is a preview of the Theme Windmill:
-
 ![Theme Windmill Preview](https://github.com/ardiandp/theme-windmill/blob/main/priview/1.png)
+![Theme Windmill Preview](https://github.com/ardiandp/theme-windmill/blob/main/priview/2.png)
+![Theme Windmill Preview](https://github.com/ardiandp/theme-windmill/blob/main/priview/3.png)
+![Theme Windmill Preview](https://github.com/ardiandp/theme-windmill/blob/main/priview/4.png)
+![Theme Windmill Preview](https://github.com/ardiandp/theme-windmill/blob/main/priview/5.png)
+![Theme Windmill Preview](https://github.com/ardiandp/theme-windmill/blob/main/priview/6.png)
+![Theme Windmill Preview](https://github.com/ardiandp/theme-windmill/blob/main/priview/7.png)
+![Theme Windmill Preview](https://github.com/ardiandp/theme-windmill/blob/main/priview/8.png)
+![Theme Windmill Preview](https://github.com/ardiandp/theme-windmill/blob/main/priview/9.png)
 
 ## Features
 
